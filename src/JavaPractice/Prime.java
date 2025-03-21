@@ -4,7 +4,7 @@ public class Prime {
 
 	public static void main(String[] args) {
 		System.out.println("7 is the prime number :"+isPrimeNum(7));
-		getPrimeNum(10);
+		//getPrimeNum(10);
 	}
 	
 	public static boolean isPrimeNum(int num) {
